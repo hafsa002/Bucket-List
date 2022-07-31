@@ -730,6 +730,7 @@ header .search-bar-container label:hover{
   margin-right: 2rem;
   color:#eee;
   text-align: justify;
+  text-transform: none;
 
 }
 
